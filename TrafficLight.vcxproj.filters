@@ -21,5 +21,18 @@
     <ClInclude Include="__vm\.TrafficLight.vsarduino.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="..\libraries\TrafficLight\TrafficLight.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\libraries\TrafficLight\keywords.txt">
+      <Filter>Arquivos de Origem</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\libraries\TrafficLight\TrafficLight.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
