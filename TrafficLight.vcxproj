@@ -118,14 +118,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\libraries\TrafficLight\TrafficLight.h" />
     <ClInclude Include="__vm\.TrafficLight.vsarduino.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\libraries\TrafficLight\keywords.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\libraries\TrafficLight\TrafficLight.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
