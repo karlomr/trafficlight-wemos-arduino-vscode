@@ -5,13 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrafficLight", "TrafficLight.vcxproj", "{F4676909-F373-4A98-A763-B55807CC1B41}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependência Externa", "Dependência Externa", "{0FC171AA-4B10-44A2-AD57-9CA035E125A0}"
-	ProjectSection(SolutionItems) = preProject
-		..\libraries\TrafficLight\keywords.txt = ..\libraries\TrafficLight\keywords.txt
-		..\libraries\TrafficLight\TrafficLight.cpp = ..\libraries\TrafficLight\TrafficLight.cpp
-		..\libraries\TrafficLight\TrafficLight.h = ..\libraries\TrafficLight\TrafficLight.h
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
