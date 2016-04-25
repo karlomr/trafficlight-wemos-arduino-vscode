@@ -63,4 +63,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #define portInputRegister(P)
 #define portModeRegister(P)
 #include <..\TrafficLight\TrafficLight.ino>
+#include <..\TrafficLight\TrafficLight.cpp>
+#include <..\TrafficLight\TrafficLight.h>
 #endif
