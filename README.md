@@ -1,5 +1,5 @@
 # TrafficLight
-Simple Project Arduino with C++ OO
-Project build in Visual Studio.
+Projeto utilizando o Visual Studio com plugin do Arduino na placa Wemos D1.
 
-TrafficLight.cpp and TrafficLight.h are removed from the project and inserted into the libraries folder of the Arduino.
+A placa Wemos (que funciona via conexão wifi) controla ligar e desligar o LED. Ese projeto possui C++ com conceitos de Orientação a Objetos.
+
