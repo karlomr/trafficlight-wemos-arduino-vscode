@@ -1,5 +1,5 @@
 # TrafficLight
-Projeto utilizando o Visual Studio com plugin do Arduino na placa Wemos D1.
+Projeto utilizando o Visual Studio com plugin do Arduino.
 
 A placa Wemos controla temporizador in/out do LED.
 Feito em C++ com conceitos de OO
